@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/niphee-oye/git-js-node-primer/issues"
   },
-  "homepage": "https://github.com/niphee-oye/git-js-node-primer#readme"
+  "homepage": "https://github.com/niphee-oye/git-js-node-primer#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
