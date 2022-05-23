@@ -30,7 +30,7 @@ console.log(fullname);
 // Comparison operations
 a = 10;
 a < 11; //returns true
-console.log(a<11); //displays true
+console.log(a<11); //displays true 
 
 var test = a > 20;
 console.log(test);
