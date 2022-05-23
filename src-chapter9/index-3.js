@@ -9,7 +9,6 @@ if(age < minimumVotingAge){
 else{
     console.log("You are eligible to vote.");
 }
-
 // Switch statements
 var today = "Saturday";
 switch (today) {
