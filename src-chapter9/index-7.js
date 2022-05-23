@@ -93,5 +93,4 @@ var personJSON2 =' { \
     "degrees" : ["BSc", "MSc", "PhD"] \
 } '
 
-
 // JSON Object
