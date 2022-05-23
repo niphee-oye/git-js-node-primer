@@ -1,5 +1,6 @@
 // Carrying out instructions repetitively
 
+
 // The FOR loop
 for(var i = 0; i < 11; i++){
     console.log(i);
