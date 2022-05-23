@@ -1,5 +1,4 @@
 // Storing data available for operations
-
 var a;
 a = 10;
 b = 11;
