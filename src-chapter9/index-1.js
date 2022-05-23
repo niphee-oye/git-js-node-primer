@@ -4,7 +4,7 @@ a = 10;
 b = 11;
 var c = 12;
 
-// Mutability of variables
+// Mutability of variables/variable
 a = 13;
 console.log(a);
 a = "This is a string";
