@@ -1,4 +1,4 @@
-// how to group data
+// how to group data.
 
 // array literal
 var vehicles = ['car', 'lorry', 'bus', 'lambo'];
